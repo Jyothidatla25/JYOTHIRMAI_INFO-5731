@@ -1,0 +1,4 @@
+document_id,clean_text,sentiment
+1,assignment include clean text data,neutral
+2,natural language process nlp amaz,neutral
+3,stemm lemmatization stopword removal important step,positive
